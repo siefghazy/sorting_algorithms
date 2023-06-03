@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1667599345 source:c:\users\007\desktop\a5oya_seif\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"Student.h"
+
+1667598437 c:\users\007\desktop\a5oya_seif\student.h
+	<iostream>
+	<fstream>
+	<cmath>
+
+1667599441 source:c:\users\20100\desktop\a5oya_seif\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"Student.h"
+
+1667598437 c:\users\20100\desktop\a5oya_seif\student.h
+	<iostream>
+	<fstream>
+	<cmath>
+
